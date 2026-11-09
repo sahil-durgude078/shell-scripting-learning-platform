@@ -1,0 +1,1 @@
+Start with README.md. The images folder contains the diagrams used in the README. All examples are written for Bash; review privileged or destructive commands before running them.
